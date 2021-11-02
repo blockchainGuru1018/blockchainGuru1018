@@ -35,10 +35,6 @@ I have developed many successful sites so far with mentioned skills.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru1018&show_icons=true&theme=radical)
-
-
-<h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=KangDo96&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangDo96&layout=compact&theme=merko&count_private=true&hide=css" />
 
