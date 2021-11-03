@@ -81,7 +81,7 @@ Hi, I'm BlockchainGuru1018, a Senior Blockchain and Cryptocurrency Developer, I 
 
  -Email : djangodeveloper961018@gmail.com
  
- -Skype : [join me] (https://join.skype.com/invite/kzFo7KhcEV00)
+ -Skype : [join me](https://join.skype.com/invite/kzFo7KhcEV00)
  
  -Telegram : [@blockchainGuru1018](https://t.me/blockchainGuru1018)
 
