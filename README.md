@@ -14,12 +14,8 @@ I have developed many successful sites so far with mentioned skills.
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/kzFo7KhcEV00"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchainGuru1018.blockchainGuru1018" />
 <img align="right" src="https://img.shields.io/github/followers/blockchainGuru1018?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=blockchainGuru1018&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainGuru1018&layout=compact&theme=merko&count_private=true&hide=css" />
 <img height="150px" />
 
 </div>
