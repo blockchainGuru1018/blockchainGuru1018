@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [BlockchainGuru1018](https://t.me/blockchainGuru1018)  
+### Hey 👋🏽, I'm a [Blockchain Engineer](https://t.me/blockchainGuru1018)  
 
 <br/>
 
