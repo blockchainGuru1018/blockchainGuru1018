@@ -7,9 +7,6 @@ Hi, I'm BlockchainGuru1018, a Senior Blockchain and Cryptocurrency Developer, I 
 
 
 
-<div>
-  <a href="https://www.linkedin.com/in/jinguangze/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
-</div>
   
 <br>
 <br>
@@ -42,5 +39,5 @@ Hi, I'm BlockchainGuru1018, a Senior Blockchain and Cryptocurrency Developer, I 
 
  -Email : djangodeveloper961018@gmail.com
   
- -Telegram : [@Jin GuangZe](https://t.me/blockchainGuru1018)
+ -Telegram : [@](https://t.me/blockchainGuru1018)
 
