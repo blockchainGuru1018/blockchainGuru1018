@@ -18,21 +18,6 @@ Hi, I'm BlockchainGuru1018, a Senior Blockchain and Cryptocurrency Developer, I 
 </div>
 
 <br>
-<br>
-  
-<div>
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainGuru1018&layout=compact&theme=merko&count_private=true" />
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **Connect with me:**
 
