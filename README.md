@@ -1,9 +1,9 @@
 
-### Hey 👋🏽, I'm a [Blockchain Engineer](https://t.me/blockchainGuru1018)  
+### Hey 👋🏽, I'm a [Fullstack Web Engineer](https://t.me/blockchainGuru1018)  
 
 <br/>
 
-Hi, I'm BlockchainGuru1018, a Senior Blockchain and Cryptocurrency Developer, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I developed tons of websites successfully using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hi, I'm BlockchainGuru1018, a Senior Fullstack and Cryptocurrency Engineer, I have rich experience with Web development, Blockchain, Yield Farming, Smart Contract, DEFI and NFT marketplace. I developed tons of websites successfully using Python, React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
 
 
 
