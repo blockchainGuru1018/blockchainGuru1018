@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm a [Fullstack Web Engineer](https://t.me/blockchainGuru1018)  
+### Hey 👋🏽, I'm a [Fullstack Web Engineer]
 
 <br/>
 
@@ -22,6 +22,4 @@ Hi, I'm BlockchainGuru1018, a Senior Fullstack and Cryptocurrency Engineer, I ha
 **Connect with me:**
 
  -Email : djangodeveloper961018@gmail.com
-  
- -Telegram : [@](https://t.me/blockchainGuru1018)
 
